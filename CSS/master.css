@@ -1273,6 +1273,9 @@ ul {
 .plans-page .blue .top {
     outline-color: var(--blue-color);
 }
+.plans-page .orange .top {
+    outline-color: var(--orange-color);
+}
 .plans-page .plan .top .price {
     position: relative;
     font-size: 40px;
